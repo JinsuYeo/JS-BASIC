@@ -14,10 +14,18 @@ input {
   outline: none;
 }
 
-.form .greeings {
+.form,
+.greeings {
   display: none;
 }
 
 .showing {
   display: block;
+}
+
+.js-toDoList span {
+  color: greenyellow;
+}
+.js-toDoList {
+  list-style: none;
 }
