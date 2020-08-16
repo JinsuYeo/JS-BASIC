@@ -1,0 +1,23 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: greenyellow;
+}
+
+input {
+  border: solid greenyellow;
+}
+
+.js-form :focus {
+  outline: none;
+}
+
+.form .greeings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
